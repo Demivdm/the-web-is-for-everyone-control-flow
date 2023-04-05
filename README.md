@@ -1,7 +1,3 @@
-> Deze deeltaak hoor bij de leertaak van _The Web is for Everyone_. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Control flow Plant swap
 
-
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+Bekijk [hier](https://github.com/Demivdm/the-web-is-for-everyone-control-flow/wiki/Control-flow) mijn gemaakt control flow.
